@@ -1,12 +1,14 @@
 # Einstein on Cronos Wallet Tracker
 
-This project is a public repository of Einstein ER20  Smart Contract wallet tracker using integrated into Wordpress' Elementor custom widget.
+This project is a public repository of Einstein ER20  Smart Contract wallet tracker integrated into Wordpress' Elementor custom widget.
 
-- Wordpress
+- WordPress
 - Elementor
 - Elementor Pro
 - Cronos
 - Web2/Web3
+
+- Plugin connects directly to web3 without connecting to MetaMask.
 
 ### Information
 
