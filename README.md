@@ -10,7 +10,7 @@ This project is a public repository of Einstein ER20  Smart Contract wallet trac
 
 - Plugin connects directly to web3 without connecting to MetaMask.
 
-### Information
+## Information
 
 **Chain:** [Cronos](https://cronos.org/)
 
@@ -21,3 +21,5 @@ This project is a public repository of Einstein ER20  Smart Contract wallet trac
 ### Development
 
 **Developer:** [Rubix Studios](https://www.rubixstudios.com.au)
+
+**Innovation:** [XRL](https://xrl.au)
